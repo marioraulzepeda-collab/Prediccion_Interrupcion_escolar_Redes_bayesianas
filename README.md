@@ -1,6 +1,3 @@
-# Prediccion_Interrupcion_escolar_Redes_bayesianas
-Análisis correlacional y modelado predictivo de interrupción escolar mediante Redes Bayesianas y técnicas estadísticas no paramétricas.
-
 # Predicción de Interrupción Escolar mediante Redes Bayesianas y Análisis Correlacional
 
 Repositorio correspondiente a la investigación desarrollada sobre la predicción de interrupción escolar en el CBTis No. 191 de Gutiérrez Zamora, Veracruz.
