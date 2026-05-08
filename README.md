@@ -33,19 +33,19 @@ El objetivo principal es identificar patrones relacionados con el rendimiento ac
 
 ## Estructura del repositorio
 
-### correlaciones/
+### correlaciones
 Scripts utilizados para generar matrices correlacionales de Spearman y análisis académicos.
 
-### redes_bayesianas/
+### redes_bayesianas
 Implementación de modelos probabilísticos mediante Redes Bayesianas utilizando pgmpy.
 
-### procesamiento/
+### procesamiento
 Scripts de preparación, discretización y transformación de datos.
 
-### mixtos/
+### mixtos
 Análisis exploratorios que integran variables académicas y socioeconómicas.
 
-### resultados/
+### resultados
 Visualizaciones, matrices y estructuras generadas durante el análisis.
 
 
